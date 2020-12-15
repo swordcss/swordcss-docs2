@@ -1,0 +1,17 @@
+{
+  "name": "swordcss-docs2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "docsify serve ./docs",
+    "build": "echo \" no build right now \" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "docsify": "^4.11.6"
+  }
+}
