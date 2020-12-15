@@ -10,10 +10,10 @@ With `sw-class` you copy the CSS of certain classes.
 
 ```css
 .elem {
-    sw-class: elem2;
+  sw-class: elem2;
 }
 .elem2 {
-    width: 20px;
+  width: 20px;
 }
 ```
 
@@ -21,10 +21,10 @@ With `sw-class` you copy the CSS of certain classes.
 
 ```css
 .elem {
-    width: 20px;
+  width: 20px;
 }
 .elem2 {
-    width: 20px;
+  width: 20px;
 }
 ```
 
@@ -36,10 +36,10 @@ With `sw-id` you can copy the CSS of IDs.
 
 ```css
 .elem {
-    sw-id: elem2;
+  sw-id: elem2;
 }
 #elem2 {
-    width: 20px;
+  width: 20px;
 }
 ```
 
@@ -47,10 +47,10 @@ With `sw-id` you can copy the CSS of IDs.
 
 ```css
 .elem {
-    width: 20px;
+  width: 20px;
 }
 #elem2 {
-    width: 20px;
+  width: 20px;
 }
 ```
 
@@ -62,13 +62,13 @@ With `sw-query` you can copy the CSS of valid DOM queries.
 
 ```css
 .elem {
-    sw-query: #elem2 .elem3;
+  sw-query: #elem2 .elem3;
 }
 #elem2 {
-    width: 20px;
+  width: 20px;
 }
 .elem3 {
-    height: 30px;
+  height: 30px;
 }
 ```
 
@@ -76,13 +76,13 @@ With `sw-query` you can copy the CSS of valid DOM queries.
 
 ```css
 .elem {
-    width: 20px;
-    height: 30px;
+  width: 20px;
+  height: 30px;
 }
 #elem2 {
-    width: 20px;
+  width: 20px;
 }
 .elem3 {
-    height: 30px;
+  height: 30px;
 }
 ```

@@ -4,12 +4,12 @@
 
 ```json
 {
-    "useClass": true,
-    "useConstant": true,
-    "useId": true,
-    "useQuery": true,
-    "useVariable": true,
-    "minify": false
+  "useClass": true,
+  "useConstant": true,
+  "useId": true,
+  "useQuery": true,
+  "useVariable": true,
+  "minify": false
 }
 ```
 

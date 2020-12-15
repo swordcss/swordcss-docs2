@@ -6,14 +6,14 @@
 
 ```css
 @sw-constants {
-    width: 20px;
+  width: 20px;
 }
 @sw-variables {
-    height: 30px;
+  height: 30px;
 }
 .elem {
-    width: width;
-    height: height;
+  width: width;
+  height: height;
 }
 ```
 
@@ -21,11 +21,11 @@
 
 ```css
 :root {
-    --height: 30px;
+  --height: 30px;
 }
 .elem {
-    width: 20px;
-    height: var(--height);
+  width: 20px;
+  height: var(--height);
 }
 ```
 

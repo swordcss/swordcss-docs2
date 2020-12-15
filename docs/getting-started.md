@@ -20,6 +20,6 @@ const sword = SwordCSS();
 
 // Compile CSS
 sword.compile(
-    ".all-elem {width: 100%; height: 100%;} #elem {sw-class: all-elem;}"
+  ".all-elem {width: 100%; height: 100%;} #elem {sw-class: all-elem;}"
 );
 ```
